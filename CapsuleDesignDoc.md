@@ -18,6 +18,9 @@ ___
 
 ## Existing Products
 
+- pCloud offers 2 TB for a one-time payment of $400 that lasts a lifetime. They offer only infrequent access like this business idea. They also offer 10 TB for a one-time payment of $1200. **pCloud invalidates the Capsule business idea.**
+  - https://www.pcloud.com/lifetime/
+
 **All of these products also offer immediate retrieval of data, unlike the S3 Glacier plans I mention below.**
 
 - Microsoft Office 365 Personal offers 1 TB for $5.83/month **while also including all other Microsoft products like Word, Powerpoint, etc.**
